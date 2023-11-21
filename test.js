@@ -71,3 +71,62 @@
 // }
 // console.log (sum)
 
+// let x = -3
+// if (x >= 0) {
+//     console.log ("True") 
+// } else if (x <= 0 ) {
+//     console.log ("False")
+// }
+
+// let x = ("test") 
+// if (x = ("qwerty")) {
+//     console.log ("true")
+// } else if (x = ("true")) {
+//     console.log ("true")
+// } else if (x = ("test")) {
+//     console.log ("true")
+// }
+
+    // let variable1 = test;
+    // let variable2 = qwerty;
+    // let variable3 = true;
+
+    // if (variable1 = test) {
+    //     console.log(true); // Виведе true
+    // } else {
+    //     console.log(false);
+    // }
+
+    // if (variable2 > 0) {
+    //     console.log(true);
+    // } else {
+    //     console.log(false); // Виведе false
+    // }
+
+    // if (variable3 > 0) {
+    //     console.log(true);
+    // } else {
+    //     console.log(false);
+    // }
+
+
+let x = 10
+let y = 1
+let z = 13
+if (x > 10) {
+    (x -= 5)
+} else {
+    (x += 5)
+} console.log (x)
+
+if (y > 10) {
+    (y -= 5)
+} else {
+    (y += 5)
+} console.log (y)
+
+if (z > 10) {
+    (z -= 5)
+} else {
+    (z += 5)
+} console.log (z)
